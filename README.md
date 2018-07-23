@@ -1,3 +1,3 @@
 # bootcamppractice
 
-This a repository I created to illustrate Github concepts for my bpptcamp group.
+This a repository I created to illustrate Github concepts for my bootcamp group.
